@@ -1,0 +1,158 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+
+p,a{
+  margin-top: 0;
+}
+
+.txtl{
+  font-family: 'Alegreya Sans SC', sans-serif;
+  font-size: 36px;
+  font-weight: bold;
+  color: #545454;
+}
+
+.txtm{
+  font-family: 'Alegreya Sans SC', sans-serif;
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.txts{
+  font-family: "Noto Sans JP";
+}
+
+.txtss{
+  font-family: "Noto Sans JP";
+  font-size: 14px;
+}
+
+.line{
+  border-top: 2px solid #F5F5F3;
+  height: 10px;
+  background-color: #fcfcfa;
+}
+
+/*/////////////////////////////header////////////////////////////////*/
+
+header{
+  text-align: center;
+  height: 400px;
+  background-color: #F5F5F3;
+}
+
+header .txtl{
+  padding-top: 180px;
+}
+
+/*////////////////////////////profile///////////////////////////////////*/
+
+.profile{
+  text-align: center;
+  background-color: #fcfcfa;
+  padding: 30px 0;
+}
+
+.profile .txtm{
+  padding: 20px 0;
+}
+
+.profile-in{
+  padding-bottom: 20px;
+}
+
+.profile-image{
+  width: 300px;
+  vertical-align: bottom;
+  padding-right: 30px;
+}
+
+.profile-detail{
+  text-align: left;
+  display: inline-block;
+  width: 400px;
+}
+
+.profile-detail .txtm{
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.profile-detail .txts{
+  padding-top: 10px;
+}
+
+.profile-detail p{
+  font-family:  "Noto Sans JP";
+  margin-bottom: 0;
+}
+
+
+/*////////////////////////////////work///////////////////////////*/
+
+.work{
+  background-color: #fcfcfa;
+  text-align: center;
+  padding: 30px 0;
+}
+
+.work-image{
+  width: 400px;
+  margin: 10px;
+  box-shadow: 4px 6px 8px gray;
+}
+
+.work-image:hover{
+  opacity: 0.7;
+}
+
+
+/*///////////////////////////header/////////////////////////////////*/
+
+footer{
+  background-color: #fcfcfa;
+}
+
+.footer-box{
+  text-align: center;
+  padding: 80px 0 50px 0;
+}
+
+.footer-box .txtss{
+  font-family: 'Roboto', sans-serif;
+  margin-bottom: 6px;
+}
+
+
+
+/*////////////////////////////page////////////////////////////////////*/
+
+.page-box{
+  padding: 60px 0;
+  text-align: center;
+  background-color: #fcfcfa;
+}
+
+.page-image{
+  width: 800px;
+  padding-bottom: 60px;
+}
+
+.page-box .txtbox{
+  text-align: left;
+  padding: 60px 200px;
+}
+
+.txtbox .txtm{
+  font-family: 'Alegreya Sans SC', sans-serif;
+}
+
+.txtbox .txtss{
+  margin: 0;
+}
+
+.txtbox .txts{
+  margin-top: 20px;
+}
