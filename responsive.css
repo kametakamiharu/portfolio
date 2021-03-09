@@ -1,0 +1,15 @@
+@media(max-width: 480px){
+
+.profile-detail{
+  width: 280px;
+}
+
+.profile-image{
+  padding-right: 0;
+}
+
+.work-image{
+  width: 280px;
+}
+
+}
