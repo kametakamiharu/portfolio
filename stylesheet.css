@@ -156,3 +156,7 @@ footer{
 .txtbox .txts{
   margin-top: 20px;
 }
+
+.txtbox a{
+  text-decoration: none;
+}
