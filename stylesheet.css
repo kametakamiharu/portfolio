@@ -109,7 +109,7 @@ header .txtl{
 }
 
 
-/*///////////////////////////header/////////////////////////////////*/
+/*///////////////////////////footer/////////////////////////////////*/
 
 footer{
   background-color: #fcfcfa;
@@ -123,6 +123,8 @@ footer{
 .footer-box .txtss{
   font-family: 'Roboto', sans-serif;
   margin-bottom: 6px;
+  text-decoration: none;
+  color: black;
 }
 
 
